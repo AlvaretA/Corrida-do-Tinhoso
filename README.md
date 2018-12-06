@@ -4,6 +4,10 @@ This is not an english project. Sorry.
 
 Shoot'em Up 2D com temática nordestina. Baseado no conto de Câmara Cascudo "Carro Caído" (*LENDAS BRASILEIRAS PARA JOVENS; Câmara Cascudo, Luís da; EDITORA Global; 2ª Edição*).
 
+## Requisitos
+
+- Java (1.8.0 ou maior).
+
 Este jogo foi feito na PDE Processing com uma versão simplificada do Java. Para compilar:
 
 1. Baixe a PDE através de processing.org/download/
